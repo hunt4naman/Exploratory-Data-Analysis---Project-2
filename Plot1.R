@@ -1,4 +1,4 @@
-# Coursera Exploratory Data Analysis 5/18/14
+# Coursera Exploratory Data Analysis 4/11/16
 # Course Project 2 - Plot 1
 # Assignment at
 # https://class.coursera.org/exdata-002/human_grading/view/courses/972082/assessments/4/submissions
